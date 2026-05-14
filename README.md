@@ -1,11 +1,23 @@
-# FAT - Programação Web
+# 🥖 Padaria Canal do Forte - Projeto Web
 
-## Repositório experimental, elaborado com fins educativos, para aplicação prática do conteúdo estudado.
+Este projeto consiste no desenvolvimento da primeira página institucional da **Padaria Canal do Forte**, focando em uma estrutura semântica e organizada.
 
-### Mensagem motivacional: Teimosia é considerada defeito. Mas sem ela, dificilmente alcançamos o sucesso.
+## 🎓 Contexto Acadêmico
+* **Instituição:** Escola Técnica FAT
+* **Curso:** Programação Web
+* **Desenvolvedor:** Vinicius Marques da Costa
+* **Versão:** 1.0
 
-Escola Técnica FAT - Curso de Programação Web
+## 🏠 O Cenário
+O objetivo foi criar a presença digital inicial para uma padaria tradicional em Bertioga/SP, organizando informações sobre produtos, história e localização.
 
-Elaboração do site da Padaria Canal do Forte
+## 🛠️ Tecnologias e Especificações
+- **HTML5:** Uso de tags semânticas como `<header>`, `<main>`, `<section>` e `<footer>`.
+- **Acessibilidade:** Meta tags de descrição e títulos hierárquicos (H1-H3).
+- **Organização:** Listas ordenadas para horários e não-ordenadas para produtos.
 
-criado por Vinicius Marques da Costa
+## 🚀 Como Visualizar
+Basta abrir o arquivo `index.html` em seu navegador de preferência.
+
+---
+*Status: Primeira etapa concluída com sucesso!* ✅
